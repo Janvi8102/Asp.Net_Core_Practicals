@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="Default Web Site/demo" tags="IisApp">
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/DemoSite" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Core_Practicals\\Practical_20\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Practical_20.Models.Practical_20Context" description="" value="Data Source=SF-CPU-566\MYSQL;Initial Catalog=Practical_20;Integrated Security=True" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Core_Practicals\\Practical_20\\obj\\Release\\net5\.0\\PubTmp\\EFSQLScripts\\Practical_20\.Models\.Practical_20Context\.sql$" />
   </parameter>
 </parameters>

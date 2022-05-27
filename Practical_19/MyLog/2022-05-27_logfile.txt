@@ -1,0 +1,12 @@
+2022-05-27 13:08:22.7934 INFO Fetching all Employees from Database
+2022-05-27 13:08:22.8074 INFO Returning 0 Employees.
+2022-05-27 13:08:22.8532 INFO Fetching all Employees from Database
+2022-05-27 13:08:22.8532 INFO Returning 0 Employees.
+2022-05-27 13:20:47.4332 INFO Adding a new Employee
+2022-05-27 13:20:48.3189 INFO Employee Added Successfully
+2022-05-27 13:21:11.5034 INFO Adding a new Employee
+2022-05-27 13:21:11.5381 INFO Employee Added Successfully
+2022-05-27 13:21:49.1719 INFO Fetching all Employees from Database
+2022-05-27 13:21:49.1719 INFO Returning 2 Employees.
+2022-05-27 13:22:04.9016 INFO Fetching all Employees from Database
+2022-05-27 13:22:04.9016 INFO Returning 2 Employees.

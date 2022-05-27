@@ -298,3 +298,5 @@ C:\Core_Practicals\Practical_20\obj\Release\net5.0\Practical_20.dll
 C:\Core_Practicals\Practical_20\obj\Release\net5.0\ref\Practical_20.dll
 C:\Core_Practicals\Practical_20\obj\Release\net5.0\Practical_20.pdb
 C:\Core_Practicals\Practical_20\obj\Release\net5.0\Practical_20.genruntimeconfig.cache
+C:\Core_Practicals\Practical_20\bin\Release\net5.0\web.config
+C:\Core_Practicals\Practical_20\bin\Release\net5.0\appsettings.Production.json

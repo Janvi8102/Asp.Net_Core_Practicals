@@ -1,0 +1,15 @@
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\bin\Debug\net5.0\Service.deps.json
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\bin\Debug\net5.0\Service.dll
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\bin\Debug\net5.0\ref\Service.dll
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\bin\Debug\net5.0\Service.pdb
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\bin\Debug\net5.0\Contracts.dll
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\obj\Debug\net5.0\Service.dll
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\obj\Debug\net5.0\ref\Service.dll
+C:\Users\janvi\Downloads\Practical_19-master\Practical_19-master\LoggingService\obj\Debug\net5.0\Service.pdb
