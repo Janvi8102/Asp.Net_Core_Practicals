@@ -7,7 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword />
-    <History>True|2022-05-26T12:11:04.2745802Z;</History>
+    <History>True|2022-06-02T10:53:51.8742991Z;True|2022-06-02T14:51:14.8730264+05:30;True|2022-05-26T17:41:04.2745802+05:30;</History>
   </PropertyGroup>
   <ItemGroup>
     <DestinationConnectionStrings Include="StudentDatabase">
